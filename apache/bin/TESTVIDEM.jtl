@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="3784" it="0" lt="3783" ct="999" ts="1504939565423" s="true" lb="OPEN URL-VEDAM" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5491" sby="392" ng="1" na="1"/>
+<httpSample t="2835" it="0" lt="2835" ct="1373" ts="1504939569238" s="true" lb="HOME/index.html-VEDAM" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5491" sby="438" ng="1" na="1"/>
+<httpSample t="7906" it="0" lt="7906" ct="1605" ts="1504939572076" s="true" lb="ABOUTUS/aboutus.html-VEDAM" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="8659" sby="450" ng="1" na="1"/>
+<httpSample t="4920" it="0" lt="4896" ct="1700" ts="1504939580009" s="true" lb="SERVICES/services.html-VEDAM" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="10728" sby="453" ng="1" na="1"/>
+<httpSample t="6468" it="0" lt="6468" ct="3015" ts="1504939584931" s="true" lb="PRODUCTS/products.html-VEDAM" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="8220" sby="454" ng="1" na="1"/>
+<httpSample t="3485" it="0" lt="3482" ct="1648" ts="1504939591403" s="true" lb="CLIENT/clients.html-VEDAM" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="6491" sby="453" ng="1" na="1"/>
+<httpSample t="3243" it="0" lt="3243" ct="963" ts="1504939594895" s="true" lb="CASESTUDIES/performance-consulting-case.html-VEDAM" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5885" sby="472" ng="1" na="1"/>
+<httpSample t="916" it="0" lt="892" ct="396" ts="1504939598140" s="true" lb="CARREROPENING/career.html-VEDAM" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="13244" sby="471" ng="1" na="1"/>
+<httpSample t="1178" it="0" lt="1178" ct="0" ts="1504939599060" s="true" lb="CONTACTUS/contact-us.html-VEDAM" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5860" sby="454" ng="1" na="1"/>
+
+</testResults>

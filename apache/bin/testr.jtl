@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1504937589024,739,OPEN URL-VEDAM,200,OK,Thread Group 1-1,text,true,,5491,392,1,1,739,0,386
+1504937589775,289,HOME/index.html-VEDAM,200,OK,Thread Group 1-1,text,true,,5491,438,1,1,289,0,0
+1504937590065,296,ABOUTUS/aboutus.html-VEDAM,200,OK,Thread Group 1-1,text,true,,8659,450,1,1,296,0,0
+1504937590363,289,SERVICES/services.html-VEDAM,200,OK,Thread Group 1-1,text,true,,10728,453,1,1,289,0,0
+1504937590655,288,PRODUCTS/products.html-VEDAM,200,OK,Thread Group 1-1,text,true,,8220,454,1,1,288,0,0
+1504937590944,298,CLIENT/clients.html-VEDAM,200,OK,Thread Group 1-1,text,true,,6491,453,1,1,298,0,0
+1504937591243,587,CASESTUDIES/performance-consulting-case.html-VEDAM,200,OK,Thread Group 1-1,text,true,,5885,472,1,1,587,0,290
+1504937591833,288,CARREROPENING/career.html-VEDAM,200,OK,Thread Group 1-1,text,true,,13244,471,1,1,288,0,0
+1504937592123,315,CONTACTUS/contact-us.html-VEDAM,200,OK,Thread Group 1-1,text,true,,5860,454,1,1,315,0,0

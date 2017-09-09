@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1504948230767,12128,OPEN URL-VEDAM,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.vedamtech.com,Thread Group 1-1,text,false,,2202,0,1,1,0,0,12127
+1504948242908,0,HOME/index.html-VEDAM,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.vedamtech.com,Thread Group 1-1,text,false,,2006,0,1,1,0,0,0
+1504948242911,1,ABOUTUS/aboutus.html-VEDAM,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.vedamtech.com,Thread Group 1-1,text,false,,2006,0,1,1,0,0,1
+1504948242914,1,SERVICES/services.html-VEDAM,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.vedamtech.com,Thread Group 1-1,text,false,,2006,0,1,1,0,0,1
+1504948242919,1,PRODUCTS/products.html-VEDAM,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.vedamtech.com,Thread Group 1-1,text,false,,2006,0,1,1,0,0,1
+1504948242922,1,CLIENT/clients.html-VEDAM,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.vedamtech.com,Thread Group 1-1,text,false,,2006,0,1,1,0,0,1
+1504948242925,0,CASESTUDIES/performance-consulting-case.html-VEDAM,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.vedamtech.com,Thread Group 1-1,text,false,,2006,0,1,1,0,0,0
+1504948242927,1,CARREROPENING/career.html-VEDAM,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.vedamtech.com,Thread Group 1-1,text,false,,2006,0,1,1,0,0,1
+1504948242930,0,CONTACTUS/contact-us.html-VEDAM,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.vedamtech.com,Thread Group 1-1,text,false,,2006,0,1,1,0,0,0
